@@ -1,1 +1,1 @@
-link: rejoan22.netlify.app
+link: https://rejoan22.netlify.app/
